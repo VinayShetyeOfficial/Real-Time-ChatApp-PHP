@@ -1,4 +1,4 @@
-# Real-Time Chat Applicationn System
+# Real-Time Chat Application System
 
 ### SignUp
 ![SignUp](https://github.com/VinayShetyeOfficial/Real-Time-ChatApp-PHP/assets/100470361/e19a8e44-4b23-4d3b-9c99-4cb527085435)
