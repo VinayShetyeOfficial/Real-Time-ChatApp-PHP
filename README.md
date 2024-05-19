@@ -64,7 +64,7 @@ The Real-Time Chat App is a web application built using PHP, MySQL, and JavaScri
 
 2. Set up your local development environment (e.g., XAMPP, WAMP, or similar) to run PHP and MySQL.
 3. Create a MySQL database for the chat app (DB_name: chatapp).
-4. Import the database schema from the provided SQL file (databse folder).
+4. Import the database schema from the provided SQL file (database folder).
 5. Launch the chat app locally in your web browser:
    - Use the link `http://localhost/Real-Time-ChatApp-PHP/index.php`
 
