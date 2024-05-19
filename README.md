@@ -1,30 +1,76 @@
-<h1>Real-Time Chat Application</h1>
-<h2>Features:</h2>
-<ul>
-  <li><span style="color:green;">🚀</span> Register form page - Allows users to create an account by providing their first name, last name, email address, password, and a profile image.</li>
-  <li><span style="color:green;">🔐</span> Login page - Allows users to log in with their email and password after authentication.</li>
-  <li><span style="color:green;">👤</span> User page - Displays the user's profile image, a search bar to filter and search for specific users to chat with, a list of available users to chat with, and real-time updates on online and offline status, read and unread messages.</li>
-  <li><span style="color:green;">💬</span> Chat box page - Allows users to chat with their selected friend, displays the friend's profile picture, and real-time updates on sent and received messages.</li>
-</ul>
-<h2>Additional Details:</h2>
-<ul>
-  <li>The user page is designed to closely resemble a typical messenger app, with a user-friendly interface that allows easy navigation and access to all features.</li>
-  <li>The search bar on the user page allows users to easily filter and search for specific friends to chat with.</li>
-  <li>The list of available users on the user page displays each friend's profile picture, name, and the most recent message (if available) with an ellipsis if the message exceeds a certain word limit. Unread messages are highlighted in violet, while read messages are displayed in gray.</li>
-  <li>The chat box page allows for real-time communication with friends and displays sent and received messages in a clear and organized manner.</li>
-  <li>The chat application also includes a logout button for added security and convenience.</li>
-</ul>
-<h2>Technologies Used:</h2>
-<ul>
-  <li>PHP for server-side scripting and handling of user data.</li>
-</ul>
-<h2>How to run the project</h2>
-<ul>
-  <li>Clone the repository on your local machine</li>
-  <li>Make sure you have a web server running on your machine</li>
-  <li>Move the cloned folder to the webroot of your server</li>
-  <li>Start the server</li>
-  <li>Open the browser and go to localhost/Real-Time-ChatApp-PHP</li>
-</ul>
-<h2>Conclusion:</h2>
-<p>This project is a real-time chat application developed using PHP. It offers a user-friendly and intuitive interface that allows for easy communication and organization of messages with friends. The application also includes added security features such as a logout button and real-time updates on online and offline status. It is an excellent example of a functional chat application that can be used for personal or professional communication.</p>
+# Real-Time Chat Applicationn System
+
+### SignUp
+![SignUp](https://github.com/VinayShetyeOfficial/Real-Time-ChatApp-PHP/assets/100470361/e19a8e44-4b23-4d3b-9c99-4cb527085435)
+
+### Login
+![Login](https://github.com/VinayShetyeOfficial/Real-Time-ChatApp-PHP/assets/100470361/0c9bbf9f-76d1-4b0c-874c-6aa6ab6a5962)
+
+### Chat User1 Dashboard
+![Incomming-Message2](https://github.com/VinayShetyeOfficial/Real-Time-ChatApp-PHP/assets/100470361/49079817-b166-496e-851f-23d388d865c5)
+
+### Chat User2 Dashboard
+![Incomming-Message](https://github.com/VinayShetyeOfficial/Real-Time-ChatApp-PHP/assets/100470361/ce65745f-3cad-4aab-925c-74a7556135f5)
+
+### Chat Thread
+![Conversation](https://github.com/VinayShetyeOfficial/Real-Time-ChatApp-PHP/assets/100470361/521dd2ae-7922-419f-8a20-a1e5a605f2a1)
+
+## Search User
+![Search-focus](https://github.com/VinayShetyeOfficial/Real-Time-ChatApp-PHP/assets/100470361/39903374-c2b4-4c2e-a401-9cf2e60eb4fa)
+
+![Searching](https://github.com/VinayShetyeOfficial/Real-Time-ChatApp-PHP/assets/100470361/831f85d8-2e6b-4996-8115-776353e185b5)
+
+### Links
+Live Site URL: [Preview](``)
+
+## Description
+
+The Real-Time Chat App is a web application built using PHP, MySQL, and JavaScript that allows users to chat with each other in real time. Users can sign up, log in, check who is online, see read/unread messages, and search for other users.
+
+## Features
+
+1. **User Registration and Login:**
+   - Users can register and log in to the chat app.
+   - Upon successful login, users are directed to the chat dashboard.
+
+2. **Chat Dashboard:**
+   - Displays a list of online users.
+   - Shows whether a message has been read (light grey text) or not (red text).
+   - Indicates online status with a green dot and offline status with a grey dot.
+   - Provides a search bar for finding other users.
+
+3. **Messaging:**
+   - Users can send and receive real-time messages.
+   - Unread messages are displayed in bold violet text.
+   - Users can view their chat history.
+
+4. **Profile Management:**
+   - Users can update their profile information.
+   - Includes options to upload a profile picture.
+
+## Technologies Used
+
+- PHP
+- MySQL
+- JavaScript (for real-time chat functionality)
+- HTML5
+- CSS3
+
+## Installation
+
+1. Clone this repository to your local machine:
+   ```bash
+   git clone https://github.com/VinayShetyeOfficial/Real-Time-ChatApp-PHP.git
+
+2. Set up your local development environment (e.g., XAMPP, WAMP, or similar) to run PHP and MySQL.
+3. Create a MySQL database for the chat app (DB_name: chatapp).
+4. Import the database schema from the provided SQL file (databse folder).
+5. Launch the chat app locally in your web browser:
+   - Use the link `http://localhost/Real-Time-ChatApp-PHP/index.php`
+
+### Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+This project is open-source and available for anyone to explore, learn from, and contribute to.
+Feel free to customize the content and structure according to your preferences. <br><br> Happy coding! 😊
