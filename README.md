@@ -20,9 +20,6 @@
 
 ![Searching](https://github.com/VinayShetyeOfficial/Real-Time-ChatApp-PHP/assets/100470361/831f85d8-2e6b-4996-8115-776353e185b5)
 
-### Links
-Live Site URL: [Preview](``)
-
 ## Description
 
 The Real-Time Chat App is a web application built using PHP, MySQL, and JavaScript that allows users to chat with each other in real time. Users can sign up, log in, check who is online, see read/unread messages, and search for other users.
